@@ -12,6 +12,7 @@
 		56DF2AC623355CB900163524 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56DF2AC423355CB900163524 /* Main.storyboard */; };
 		56DF2AC823355CBA00163524 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56DF2AC723355CBA00163524 /* Assets.xcassets */; };
 		56DF2ACB23355CBA00163524 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56DF2AC923355CBA00163524 /* LaunchScreen.storyboard */; };
+		56DF2AD32335792100163524 /* 1200px-Rainbow-diagram-ROYGBIV.png in Resources */ = {isa = PBXBuildFile; fileRef = 56DF2AD22335792100163524 /* 1200px-Rainbow-diagram-ROYGBIV.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		56DF2AC723355CBA00163524 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56DF2ACA23355CBA00163524 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56DF2ACC23355CBA00163524 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56DF2AD22335792100163524 /* 1200px-Rainbow-diagram-ROYGBIV.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "1200px-Rainbow-diagram-ROYGBIV.png"; path = "../../1200px-Rainbow-diagram-ROYGBIV.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				56DF2AC423355CB900163524 /* Main.storyboard */,
 				56DF2AC723355CBA00163524 /* Assets.xcassets */,
 				56DF2AC923355CBA00163524 /* LaunchScreen.storyboard */,
+				56DF2AD22335792100163524 /* 1200px-Rainbow-diagram-ROYGBIV.png */,
 				56DF2ACC23355CBA00163524 /* Info.plist */,
 			);
 			path = hw2;
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56DF2AD32335792100163524 /* 1200px-Rainbow-diagram-ROYGBIV.png in Resources */,
 				56DF2ACB23355CBA00163524 /* LaunchScreen.storyboard in Resources */,
 				56DF2AC823355CBA00163524 /* Assets.xcassets in Resources */,
 				56DF2AC623355CB900163524 /* Main.storyboard in Resources */,
